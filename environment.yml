@@ -1,5 +1,0 @@
-name: Py21
-channels:
-  - defaults
-dependencies:
-  - python=3.12.8=h14ffc60_0
